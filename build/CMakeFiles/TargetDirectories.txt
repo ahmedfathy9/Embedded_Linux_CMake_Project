@@ -1,0 +1,4 @@
+/home/ahmedfathy98/ELinuxSprints/tasks/task4_module2/project_dir/build/CMakeFiles/program.dir
+/home/ahmedfathy98/ELinuxSprints/tasks/task4_module2/project_dir/build/CMakeFiles/write_in_file.dir
+/home/ahmedfathy98/ELinuxSprints/tasks/task4_module2/project_dir/build/CMakeFiles/edit_cache.dir
+/home/ahmedfathy98/ELinuxSprints/tasks/task4_module2/project_dir/build/CMakeFiles/rebuild_cache.dir
